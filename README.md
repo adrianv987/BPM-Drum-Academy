@@ -20,7 +20,7 @@ CSS
 JavaScript
 
 📸 Preview
-![Preview]
+![Preview](preview.png)
 
 📩 About
 This website was developed for BPM Drum Academy to showcase its drum tuition services, provide information for prospective students, and streamline lesson enquiries and enrolments. The site focuses on a clean user experience, modern design, and mobile responsiveness.
